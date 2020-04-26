@@ -1,0 +1,26 @@
+{
+  "name": "aw-react-router-helper",
+  "version": "1.0.2",
+  "description": "react router helper",
+  "main": "lib/index.js",
+  "typings": "lib/index.d.ts",
+  "homepage": "https://github.com/Away0x/react-router-helper",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Away0x/react-router-helper"
+  },
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "Away0x",
+  "license": "ISC",
+  "dependencies": {
+    "@types/react": "^16.9.34",
+    "@types/react-router": "^5.1.5",
+    "typescript": "^3.8.3"
+  },
+  "peerDependencies": {
+    "react": ">=15",
+    "react-router": "^5.0.0"
+  }
+}
